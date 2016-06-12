@@ -1,0 +1,7 @@
+# .iml files IntelliJ files
+*.iml
+.idea/**
+*.class
+# Ignores target classes
+target/**/*
+
